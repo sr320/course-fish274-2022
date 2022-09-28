@@ -3,7 +3,7 @@ layout: page
 title: Syllabus
 catalog: FISH 274
 credits: 3
-semester: Autumn 2021
+semester: Autumn 2022
 professor: Dr. Steven Roberts
 office: FTR 232
 email: sr320@uw.edu
