@@ -12,7 +12,7 @@ permalink:        pretty
 title:            Introduction to Data Analysis for Aquatic Sciences
 description:      'Fundamental aspects of data acquisition, data wrangling, and visualization'
 url:              https://sr320.github.io/course-fish274-2021
-baseurl:          /course-fish274-2021
+baseurl:          /course-fish274-2022
 email:            sr320@uw.edu
 feedbackurl:
 author:
@@ -20,5 +20,5 @@ author:
   url:            https://twitter.com/sr320
 
 github:
-  repo:           https://github.com/sr320/course-fish274-2021
+  repo:           https://github.com/sr320/course-fish274-2022
   #               Be sure the 'Issues' feature is activated in 'Settings'
