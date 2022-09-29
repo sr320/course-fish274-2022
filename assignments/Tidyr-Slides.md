@@ -20,4 +20,4 @@ exercises: ['']
 <!-- End of Assignments Template - Be sure to keep the include statements -->
 
 ****
-### [Canvas Quiz](https://canvas.uw.edu/courses/1479009/quizzes)
+### [Canvas Quiz](https://canvas.uw.edu/courses/1580517/quizzes)

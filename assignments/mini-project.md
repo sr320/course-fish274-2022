@@ -28,4 +28,4 @@ Be sure to review Week 4 and Week 5 material to re-familiarize yourself with dpl
 
 ****
 
-### [Canvas Quiz](https://canvas.uw.edu/courses/1479009/quizzes)
+### [Canvas Quiz](https://canvas.uw.edu/courses/1580517/quizzes)

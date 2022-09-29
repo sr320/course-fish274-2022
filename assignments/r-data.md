@@ -16,7 +16,7 @@ exercises: ['dplyr', 'Shrub Volume Data Basics', 'Shrub Volume Aggregation', 'Sh
 
 {% include reading.html %}
 
-## 1) [Week 4 "Quiz" on Canvas](https://canvas.uw.edu/courses/1479009/quizzes)
+## 1) [Week 4 "Quiz" on Canvas](https://canvas.uw.edu/courses/1580517/quizzes)
 
 NOTE: Big Q this week is 6!  
 > Complete the 5 exercises for the week.
@@ -25,7 +25,7 @@ NOTE: Big Q this week is 6!
 > tip: Exercise 5, Q3 asks for a text file. This should be in a subdirectory in your project.
 
 
-## 2) [Summary Sheets](https://canvas.uw.edu/courses/1479009/assignments) Due Thursday
+## 2) [Summary Sheets](https://canvas.uw.edu/courses/1580517/assignments) Due Thursday
 _This is a sheet of paper where you use a writing instrument to create a mindmap / cheat sheet._
 
 

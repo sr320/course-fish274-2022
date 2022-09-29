@@ -21,7 +21,7 @@ exercises: ['Basic Expressions', 'Basic Variables', 'More Variables', 'Built-in 
 
 {% include reading.html %}
 
-## 1) [Week 3 "Quiz" on Canvas](https://canvas.uw.edu/courses/1479009/quizzes)
+## 1) [Week 3 "Quiz" on Canvas](https://canvas.uw.edu/courses/1580517/quizzes)
 
 NOTE: Big Q this week is 11!  
 Create an R script (using Comments to make clear on the exercise and explaining the code) for doing the exercises below.
@@ -29,7 +29,7 @@ Create an R script (using Comments to make clear on the exercise and explaining 
 This R script should be able to run by someone not in the class and make sense.
 
 
-## 2) [Summary Sheets](https://canvas.uw.edu/courses/1479009/assignments) Due Thursday
+## 2) [Summary Sheets](https://canvas.uw.edu/courses/1580517/assignments) Due Thursday
 _This is a sheet of paper where you use a writing instrument to create a mindmap / cheat sheet._
 
 ---
