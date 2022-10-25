@@ -16,8 +16,11 @@ exercises: ['Mass vs Metabolism', 'Adult vs Newborn Size', 'Sexual Dimorphism Ex
 
 {% include reading.html %}
 
-### Reminder on the Weekly Quiz and Summary Sheet.
-Just as last week, you will be uploading a zip file.
+## 1) [Week 5 "Quiz" on Canvas](https://canvas.uw.edu/courses/1580517/quizzes)
+
+
+## 2) [Summary Sheets](https://canvas.uw.edu/courses/1580517/assignments) Due Thursday
+_This is a sheet of paper where you use a writing instrument to create a mindmap / cheat sheet._
 
 ---
 
