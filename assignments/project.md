@@ -28,6 +28,5 @@ Correct any errors made previously (see my comments). All  graphs should match s
 
 Pay particular attention to file / directory structure and general organization.
 
-Upload a single project with both assignments.
 
 This will overwrite your prior grades, presuming you do better.
