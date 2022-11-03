@@ -20,62 +20,10 @@ before somehow hitting `Ctrl-s` and overwriting all of your hard work.
 Determined to not let this happen again you've committed to using `git` for
 version control.
 
-Install `Git` for your operating system.
 
 
 
 <h3 id="git">Git</h3>
-
-Installing the GitHub Desktop Application should be sufficient for installation purposes. There are several other ways including some below.
-
-<h4 id="windows">Windows</h4>
-
-<ol>
-  <li>Download the Git for Windows
-<a href="https://git-for-windows.github.io/">installer</a>.</li>
-  <li>Run the installer and follow the steps bellow:
-    <ol>
-      <li>Click on “Next”.</li>
-      <li>Click on “Next”.</li>
-      <li>Click on “Next”.</li>
-      <li>Click on “Next”.</li>
-      <li>Click on “Next”.</li>
-      <li><strong>Select “Use Git from the Windows Command Prompt” and click on
-“Next”.</strong> If you forgot to do this programs that you need for
-the workshop will not work properly. If this happens rerun the
-installer and select the appropriate option.</li>
-      <li>Click on “Next”. <strong>Keep “Checkout Windows-style, commit
-Unix-style line endings” selected.</strong></li>
-      <li><strong>Select “Use Windows’ default console window” and click on
-“Next”.</strong></li>
-      <li>Click on “Next”.</li>
-      <li>Click on “Finish”.</li>
-    </ol>
-  </li>
-</ol>
-
-<h4 id="mac-os-x">Mac OS X</h4>
-
-<ol>
-  <li>Open up the Terminal, type in “git” and press enter.</li>
-  <li>This should cause a pop-up window to appear. It will have several options;
-click on “Install” (not “Get Xcode”, see “Installing Xcode” for that).</li>
-  <li>Click “Agree”.</li>
-  <li>When the install is finished, click “Done”.</li>
-  <li>To make sure this worked, type in “git” in the Terminal and press enter. Some
-information will come up, including a list of common commands.</li>
-</ol>
-
-<p>If this doesn’t work you can try the following:</p>
-
-<p>For <strong>OS X 10.9 and higher</strong>, install Git for Mac by downloading and running the
-most recent “mavericks” installer from
-<a href="http://sourceforge.net/projects/git-osx-installer/files/">this list</a>.  After
-installing Git, there will not be anything in your <code class="highlighter-rouge">/Applications</code> folder, as
-Git is a command line program. For older versions of <strong>OS X (10.5-10.8)</strong>
-use the most recent available installer labelled “snow-leopard” <a href="http://sourceforge.net/projects/git-osx-installer/files/.">available
-here</a></p>
-
 
 
 ---
