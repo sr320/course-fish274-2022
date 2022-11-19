@@ -31,12 +31,6 @@ exercises: ['Knitr']
 ---
 
 **Mini Project question**
-This week you will need to create a new project in the class organization on github that will serve as your mini-project repository.
-
-The name of the repo should be in the format FirstName-OneWordDataRelated.
-
-For example if my data was on scallop size, my repo name would be `Steven-scallop`
-Be sure to set up directories properly.
 
 Create an Rmd file that reads in your data and use dyplr start to manipulate the data and ggplot to create at least one plot.
 
